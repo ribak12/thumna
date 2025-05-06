@@ -1,0 +1,60 @@
+
+body{
+    background-image: url(https://www.brainfacts.org/-/media/Brainfacts2/Neuroscience-in-Society/Tech-and-the-Brain/Article-Images/fei-fei-li-thumbnail-image.jpg);
+    background-size: cover;
+}  
+h1{
+    color: rgb(131, 217, 131);
+    text-align: center;
+}
+p{
+    color: white;
+}
+.small{
+    width: 150px;
+    height: auto;
+}
+#you{
+    font-family: "Merienda", cursive;
+}
+#inc{
+    width: 125px;
+    margin-left: 1000px;
+}
+#one{
+ float: inline-end;   
+}
+#in{
+    text-align: end; 
+    font-family: "Merienda", cursive;
+    color:  rgb(14, 231, 231) ;
+}
+
+#right{
+    max-width: 100%;
+    height: auto;
+    width: 150px;
+    display: block;
+
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    transform: translateY(-110px);
+}
+#top{
+    max-width: 100%;
+    height: auto;
+    width: 150px;
+    display: block;
+
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    transform: translateY(-300px);
+}
+.back{
+    background-color: black;
+}
+.white{
+    background-color: rgb(13, 55, 172);
+}
